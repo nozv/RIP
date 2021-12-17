@@ -3,6 +3,7 @@
 ## Рубежные контроли
 
 1. [Рубежный контроль №1 (pdf)](https://github.com/nozv/rip/blob/main/%D0%A0%D0%98%D0%9F%20%D0%A0%D0%9A1.pdf)
+2. [Рубежный контроль №2 (pdf)](https://github.com/nozv/rip/blob/main/%D0%A0%D0%98%D0%9F%20%D0%A0%D0%9A2.pdf)
 
 ## Лабораторные работы
 
