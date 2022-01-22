@@ -5,6 +5,10 @@
 1. [Рубежный контроль №1 (pdf)](https://github.com/nozv/rip/blob/main/%D0%A0%D0%98%D0%9F%20%D0%A0%D0%9A1.pdf)
 2. [Рубежный контроль №2 (pdf)](https://github.com/nozv/rip/blob/main/%D0%A0%D0%98%D0%9F%20%D0%A0%D0%9A2.pdf)
 
+## Домашнее задание
+
+1. [Домашнее задание (pdf)](https://github.com/nozv/rip/blob/main/%D0%A0%D0%98%D0%9F%20%D0%94%D0%97.pdf)
+
 ## Лабораторные работы
 
 1. [Основные конструкции языка Python (Отчет pdf)](https://github.com/nozv/rip/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%9B%D0%A01.pdf)
